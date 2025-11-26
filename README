@@ -1,0 +1,13 @@
+# F1 Podium Predictor 🏁
+
+*F1 Podium Predictor** is a fun Next.js + React + Tailwind web app that uses live––and historical––data from the Jolpica (Ergast-compatible) API to predict the top 3 finishers of Formula 1 races.  
+It’s built for learning, exploration, and a bit of racing-fan excitement — **not real betting*.
+
+# 🚦 Features
+
+- ✅ Season selector (2010 → present)  
+- ✅ Race selector with real Grand Prix names (fetched dynamically)  
+- ✅ “Predict Podium” button — shows top-3 predicted finishers based on driver standings + recent form  
+- ✅ “View Past Results” — fetch full race classification for any season/round  
+- ✅ Clean, responsive UI with dark theme (Tailwind + Next.js)  
+- ✅ Powered by :contentReference[oaicite:0]{index=0} (Ergast-compatible F1 data) under the hood  
